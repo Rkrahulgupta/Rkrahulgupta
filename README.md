@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **Graphql**
 
-- 👨‍💻 All of my projects are available at [rahulwebdev.netlify.app](rahulwebdev.netlify.app)
-
+- 👨‍💻 All of my projects are available at [[rahulwebdev.netlify.app](rahulwebdev.netlify.app)
+](https://rahulwebdev.netlify.app/)
 - 💬 Ask me about **javascript, reactjs**
 
 - 📫 How to reach me **therahulgupta15@gmail.com**
